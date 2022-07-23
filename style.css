@@ -14,7 +14,7 @@
     padding: 0px;
 }
 html, body{
-    min-height: 100vh;
+    min-height: 97vh;
     background-color: darkgray;
     font-family: var(--fonte1);
     
@@ -75,6 +75,7 @@ section > p{
 section#img01{
     background-image: url('imagens/background001.jpg');
     background-size: cover;
+    background-position: center center;
 }
 section#img02{
     background-image: url('imagens/background002.jpg');
