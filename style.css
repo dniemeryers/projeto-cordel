@@ -32,6 +32,7 @@ header > h1{
 }
 header > p {
     padding-bottom: 50px;
+    font-size: 2em;
 
 }
 a{
@@ -70,7 +71,7 @@ section.imagem > p{
 
 }
 section > p{
-    padding-bottom: 2em;
+    padding-bottom: 3.5em;
 }
 section#img01{
     background-image: url('imagens/campo-verde.jpg');
@@ -87,4 +88,5 @@ footer{
     text-align: center;
     text-align: center;
     padding: 10px;
+    font-size: 2em;
 }
